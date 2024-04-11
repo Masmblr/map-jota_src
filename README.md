@@ -45,11 +45,11 @@ Map Description:
 [<img src="meta/preview_levelshots/24.jpg" width="250"/>](meta/preview_levelshots/24.jpg)
 
 ## Version History:
-| Version: | Date:        | Status: | Release Build (.pk3):       
-| ------- | ------------- | ------: | -----------------: |
-| 1.0     | 01/06/2015    |  beta   |  :x:               |
-| 1.1     | 14/06/2015    | beta    | :x:                |     
-| 1.2     | 20/06/2015    | final | [💾](https://github.com/Masmblr/map-Jota_src/releases/) |
+| Version: | Date:        | Status: |
+| ------- | ------------- | ------: |
+| 1.0     | 01/06/2015    |  beta   |
+| 1.1     | 14/06/2015    | beta    |
+| 1.2     | 20/06/2015    | release |
 
 ## How-To
 **Binary**:
@@ -187,7 +187,7 @@ textures\jota\sparks.tga <sup>[1](#Credit-1)</sup>
 
 ### Credit-1
 
-[Matthias "Masmblr Peters"](mailto:masmblr@gmail.com) \
+[Matthias "Masmblr" Peters](mailto:masmblr@gmail.com) \
 Content: Map, Textures, Shaders \
 License: [MIT License](https://opensource.org/license/mit/).
 (See "LICENSE" file for more Informations.)
